@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareLinkClient", "CareLinkClient\CareLinkClient.csproj", "{97DD1E28-6C3D-4DDE-AF07-94A8DC81FA10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareLinkService", "CareLinkService\CareLinkService.csproj", "{AF3FF6FB-98FA-4F39-91A4-616A1478A53E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DA914A62-35A1-4087-BED9-7052797A1225}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97DD1E28-6C3D-4DDE-AF07-94A8DC81FA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DD1E28-6C3D-4DDE-AF07-94A8DC81FA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DD1E28-6C3D-4DDE-AF07-94A8DC81FA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DD1E28-6C3D-4DDE-AF07-94A8DC81FA10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3FF6FB-98FA-4F39-91A4-616A1478A53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3FF6FB-98FA-4F39-91A4-616A1478A53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3FF6FB-98FA-4F39-91A4-616A1478A53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3FF6FB-98FA-4F39-91A4-616A1478A53E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17C3EFE7-0D97-45DE-B178-41FCCBE0F0AF}
+	EndGlobalSection
+EndGlobal
