@@ -26,7 +26,7 @@ This project is intended for educational and informational purposes only. It rel
 ## [Polly](https://www.thepollyproject.org/)
 - [The CORRECT way to implement Retries in .NET](https://www.youtube.com/watch?v=nJH0PC2Pubs)
 
-## [JSON.NET](https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/overview)
+## [JSON](https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/overview)
 - [How to write custom converters for JSON serialization](https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/converters-how-to)
 - [How to use source generation in System.Text.Json](https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/source-generation)
 
@@ -34,5 +34,3 @@ This project is intended for educational and informational purposes only. It rel
 This project is based on other projects:
 - [carelink-python-client](https://github.com/ondrej1024/carelink-python-client)
 - [CareLinkJavaClient](https://github.com/benceszasz/CareLinkJavaClient) 
-
-
